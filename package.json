@@ -1,7 +1,7 @@
 {
-  "homepage": ".",
+  "homepage": "https://emrahugurlu2003.github.io/react-NBA-legends",
   "name": "nba-legends",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "^5.3.0",
     "gh-pages": "^5.0.0",

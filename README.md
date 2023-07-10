@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+You play search the NBA legens now, please [click here](https://emrahugurlu2003.github.io/react-NBA-legends "Search NBA Legends").
+
 ## Available Scripts
 
 In the project directory, you can run:
