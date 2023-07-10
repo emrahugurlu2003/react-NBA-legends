@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-NBA-legends/static/css/main.895319d7.css",
+    "main.js": "/react-NBA-legends/static/js/main.9adb9885.js",
+    "static/media/bg-img.png": "/react-NBA-legends/static/media/bg-img.e1ebb2da4e675f7ccedd.png",
+    "index.html": "/react-NBA-legends/index.html",
+    "main.895319d7.css.map": "/react-NBA-legends/static/css/main.895319d7.css.map",
+    "main.9adb9885.js.map": "/react-NBA-legends/static/js/main.9adb9885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895319d7.css",
+    "static/js/main.9adb9885.js"
+  ]
+}
